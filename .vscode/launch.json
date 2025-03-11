@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DreamShopsApplication<dream-shops>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springmaven.dreamshops.DreamShopsApplication",
+            "projectName": "dream-shops",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
